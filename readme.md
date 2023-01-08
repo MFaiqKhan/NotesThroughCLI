@@ -22,7 +22,7 @@ It have CRUD operations for the notes.
 
 ## To install in your path so you can use from your command line
 ```
-cargo install --path 
+cargo install --path .
 ```
 
 ## Run the program after installing on your path through 
